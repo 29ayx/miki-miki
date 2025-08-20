@@ -1,5 +1,6 @@
 ![Miki Miki Banner](mikimiki.png)
 
+
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![GitHub](https://img.shields.io/badge/GitHub-29ayx/miki--miki-blue.svg)](https://github.com/29ayx/miki-miki)
@@ -38,6 +39,13 @@ An intelligent, autonomous web browser automation tool powered by Google's Gemin
 - **Social Media**: Navigation and interaction
 - **Authentication**: Login flows and verification
 - **Form Filling**: Email inputs, search boxes, and more
+
+
+
+https://github.com/user-attachments/assets/def00fde-7388-4809-93e1-62c68edbab0a
+
+
+
 
 ## 🚀 Quick Start
 
