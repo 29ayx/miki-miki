@@ -6,9 +6,24 @@
 [![GitHub](https://img.shields.io/badge/GitHub-29ayx/miki--miki-blue.svg)](https://github.com/29ayx/miki-miki)
 [![Gemini AI](https://img.shields.io/badge/Powered%20by-Gemini%20AI-orange.svg)](https://ai.google.dev/)
 
-# 🤖 Miki Miki - AI-Powered Browser Automation with Gemini Vision
+# 🤖 Miki Miki - Agentic AI Powered Browser Automation with Gemini Vision
 
-An intelligent, autonomous web browser automation tool powered by Google's Gemini Vision AI. This AI can see, think, and act independently to accomplish complex web tasks without human intervention.
+## Overview:
+Miki Miki is an agentic AI web automation tool powered by Google’s Gemini Vision AI. Unlike standard scripts, it perceives, reasons, and acts autonomously, completing complex web tasks without human intervention. Built as part of the Flash Dynamics Syndicate project, it demonstrates the integration of AI perception, decision-making, and execution in practical automation workflows.
+
+## Impact:
+
+Autonomous Task Execution: Enables users to automate multi-step web workflows without scripting knowledge, reducing manual effort and errors.
+
+Intelligent Decision-Making: Uses Gemini Vision AI to analyze web content dynamically, making decisions in real-time based on context and goals.
+
+Scalable Automation: Can be applied to data collection, testing, reporting, and repetitive web tasks, showing real-world versatility.
+
+Innovation in AI Agents: Highlights Ashutosh’s ability to apply advanced AI frameworks and build autonomous, intelligent systems that go beyond standard automation.
+
+Technical Mastery: Demonstrates skills in AI integration, automation architecture, software design, and problem-solving, showcasing innovation and forward-thinking approach.
+
+Miki Miki represents cutting-edge agent-based AI automation, emphasizing Ashutosh’s capability to work with advanced technologies, implement autonomous intelligence, and deliver impactful software solutions.
 
 **Developed by [Flash Dynamics Syndicate](https://fdsyd.com)**
 
