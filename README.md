@@ -19,11 +19,9 @@ Intelligent Decision-Making: Uses Gemini Vision AI to analyze web content dynami
 
 Scalable Automation: Can be applied to data collection, testing, reporting, and repetitive web tasks, showing real-world versatility.
 
-Innovation in AI Agents: Highlights Ashutosh’s ability to apply advanced AI frameworks and build autonomous, intelligent systems that go beyond standard automation.
-
 Technical Mastery: Demonstrates skills in AI integration, automation architecture, software design, and problem-solving, showcasing innovation and forward-thinking approach.
 
-Miki Miki represents cutting-edge agent-based AI automation, emphasizing Ashutosh’s capability to work with advanced technologies, implement autonomous intelligence, and deliver impactful software solutions.
+Miki Miki represents cutting-edge agent-based AI automation, capability to work with advanced technologies, implement autonomous intelligence, and deliver impactful software solutions.
 
 **Developed by [Flash Dynamics Syndicate](https://fdsyd.com)**
 
